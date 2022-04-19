@@ -17,22 +17,22 @@ primarylinks:
 skills:
  - Python
  - R
-  - CouchBase
-  - MongoDB
-  - FireBase
-  - PostGreSQL
-  - Oracle
-  - Java
-  - Android
-  - Flutter
-  - VBA
-  - JavaScript
-  - VueJs
-  - Angular
-  - SQL
-  - PL
-  - SQL
-  - noSQL
+ - CouchBase
+ - MongoDB
+ - FireBase
+ - PostGreSQL
+ - Oracle
+ - Java
+ - Android
+ - Flutter
+ - VBA
+ - JavaScript
+ - VueJs
+ - Angular
+ - SQL
+ - PL
+ - SQL
+ - noSQL
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -47,7 +47,7 @@ roles:
  - title: Data Analyst
    start: 2020
    end: 2020
-   employer: <a href="https://www.msh-reseau.fr/" target="_blank"> Maison des Sciences de l’Homme et de la Société </a>
+   employer: <a href="https://www.msh-reseau.fr/" target="_blank">MSHS</a>
    description: • Statistical and forecasting studies on the impact of AirBnB on the region </br> • Processing and analysis of a very large amount of date
  - title: Android Software Developer
    start: 2019
