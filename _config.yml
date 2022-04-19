@@ -51,7 +51,7 @@ roles:
  - title: Android Sotware Developer
    start: 2019
    end: 2019
-   employer: TOKIDEV
+   employer: TokiDev
    description: • Design and development of a mobile application </br> • Storage of semi-structured data from crowdsourcing </br> • Visualization of data on a map on mobile
 
 #Education is required
@@ -60,6 +60,7 @@ education:
    date: 2021
    subject: Applied Artificial Intelligence
    school: University of Cote d'Azur
+   description: • Machine Learning (Decision trees, Confusion matrix, Data clustering) </br> • Uncertainty Modeling (Bayesian Networks, Hidden Markov Models, Dempster-Shafer Theory of Evidence, Fuzzy Set Theory, Possibility Theory) </br> • Evolutionary Algorithm (NEAT) </br> • Computer Vision (HOG , R-CNN, Fast R-CNN, Faster R-CNN,) </br> • Natural Language Processing (Sentiment Analysis & Information Retrieval, using NLTK, SpaCy & SPARQL) </br> • Conversational agents & multi-agent systems </br> • AI for problem solving (Linear programming, CPLEX Studio)
  - level: Master's Degree 1
    date: 2020
    subject: MIAGE (Computer Methods Applied to Business Management)
