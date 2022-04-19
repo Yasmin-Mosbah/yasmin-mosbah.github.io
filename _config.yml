@@ -9,7 +9,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Linkedin
-   url: www.linkedin.com/in/ymosbah
+   url: https://www.linkedin.com/in/ymosbah
  - title: GitHub
    url: https://github.com/yasmin-mosbah
 
@@ -42,12 +42,12 @@ roles:
    start: 2020
    end: 2021
    employer: Enedis
-   description:  • <a href="https://www.enedis.fr/" target="_blank">Enedis</a> • Project management </br> • Automation of data retrieval from over 30 different sources </br> • Analysis and visualization of data with PowerBi
+   description:  • Project management </br> • Automation of data retrieval from over 30 different sources </br> • Analysis and visualization of data with PowerBi
  - title: Data Analyst
    start: 2020
    end: 2020
    employer: Maison des Sciences de l’Homme et de la Société
-   description: • <a href="https://www.msh-reseau.fr/" target="_blank">MSHS</a> •  Statistical and forecasting studies on the impact of AirBnB on the region </br> • Processing and analysis of a very large amount of date
+   description:  •  Statistical and forecasting studies on the impact of AirBnB on the region </br> • Processing and analysis of a very large amount of date
  - title: Android Sotware Developer
    start: 2019
    end: 2019
@@ -60,21 +60,14 @@ education:
    date: 2021
    subject: Applied Artificial Intelligence
    school: University of Cote d'Azur
-
-#Education is required
-education:
  - level: Master's Degree 1
    date: 2020
    subject: MIAGE (Computer Methods Applied to Business Management)
    school: University of Cote d'Azur
-  #Education is required
-education:
  - level: Bachelor's Degree 3
    date: 2019
    subject: MIAGE (Computer Methods Applied to Business Management)
    school: University of Cote d'Azur
-
-education:
  - level: Bachelor's Degree 1 & 2
    date: 2019
    subject: MASS (Mathematics Applied to Social Sciences)
