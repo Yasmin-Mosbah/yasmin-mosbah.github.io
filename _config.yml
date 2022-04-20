@@ -55,7 +55,7 @@ roles:
    description: • Design and development of a mobile application </br> • Storage of semi-structured data from crowdsourcing </br> • Visualization of data on a map on mobile
 
 #Education is required
-education:
+educations:
  - level: Master's Degree 2
    date: 2021
    subject: Applied Artificial Intelligence

@@ -1,6 +1,6 @@
 <div class="rounded_panel txt_lightgrey">
 	<div class="top-rounded-panel grey-bg">
-		<h1>Work Experience</h1>
+		<h1>Education</h1>
 	</div>
 	<div class="content-rounded-panel">
 		<div>
@@ -22,7 +22,7 @@
 
 			<!-- Modals -->
 			{% for role in site.roles %}
-				<div class="modal fade" id="{{role.employer | replace: ' ', '_'}}-{{role.title | replace: ' ', '_'}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+				<div class="modal fade" id="{{education.title | replace: ' ', '_'}}-{{education.description| replace: ' ', '_'}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 					<div class="modal-dialog" role="document">
 						<div class="modal-content">
 							<div class="modal-header">
