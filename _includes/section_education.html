@@ -4,11 +4,11 @@
 	</div>
 	<div class="content-rounded-panel">
 		<div>
-			<div class="main-timeline4">
+			<div id="introBubble" class="rounded_panel txt_lightgrey">
 
 					{% for role in site.roles %}
 						<div>
-								<a href="#" class="timeline-content"  data-toggle="modal" data-target="#{{role.employer | replace: ' ', '_'}}-{{role.title | replace: ' ', '_'}}">
+								<a href="#"  data-toggle="modal" data-target="#{{role.employer | replace: ' ', '_'}}-{{role.title | replace: ' ', '_'}}">
 										<span class="year">{{role.start}}</span>
 										<div class="inner-content">
 												<h3 class="title">{{role.title}}</h3>
