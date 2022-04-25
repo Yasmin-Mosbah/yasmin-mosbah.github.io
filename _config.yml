@@ -55,24 +55,31 @@ roles:
    description: • Design and development of a mobile application </br> • Storage of semi-structured data from crowdsourcing </br> • Visualization of data on a map on mobile
 
 #Education is required
+# education:
+#  - level: Master's Degree 2
+#    date: 2021
+#    subject: Applied Artificial Intelligence
+#    school: University of Cote d'Azur
+#    description: • Machine Learning (Decision trees, Confusion matrix, Data clustering) </br> • Uncertainty Modeling (Bayesian Networks, Hidden Markov Models, Dempster-Shafer Theory of Evidence, Fuzzy Set Theory, Possibility Theory) </br> • Evolutionary Algorithm (NEAT) </br> • Computer Vision (HOG , R-CNN, Fast R-CNN, Faster R-CNN,) </br> • Natural Language Processing (Sentiment Analysis & Information Retrieval, using NLTK, SpaCy & SPARQL) </br> • Conversational agents & multi-agent systems </br> • AI for problem solving (Linear programming, CPLEX Studio)
+#  - level: Master's Degree 1
+#    date: 2020
+#    subject: MIAGE (Computer Methods Applied to Business Management)
+#    school: University of Cote d'Azur
+#  - level: Bachelor's Degree 3
+#    date: 2019
+#    subject: MIAGE (Computer Methods Applied to Business Management)
+#    school: University of Cote d'Azur
+#  - level: Bachelor's Degree 1 & 2
+#    date: 2019
+#    subject: MASS (Mathematics Applied to Social Sciences)
+#    school: University of Cote d'Azur
+
 education:
- - level: Master's Degree 2
-   date: 2021
-   subject: Applied Artificial Intelligence
-   school: University of Cote d'Azur
-   description: • Machine Learning (Decision trees, Confusion matrix, Data clustering) </br> • Uncertainty Modeling (Bayesian Networks, Hidden Markov Models, Dempster-Shafer Theory of Evidence, Fuzzy Set Theory, Possibility Theory) </br> • Evolutionary Algorithm (NEAT) </br> • Computer Vision (HOG , R-CNN, Fast R-CNN, Faster R-CNN,) </br> • Natural Language Processing (Sentiment Analysis & Information Retrieval, using NLTK, SpaCy & SPARQL) </br> • Conversational agents & multi-agent systems </br> • AI for problem solving (Linear programming, CPLEX Studio)
- - level: Master's Degree 1
-   date: 2020
-   subject: MIAGE (Computer Methods Applied to Business Management)
-   school: University of Cote d'Azur
- - level: Bachelor's Degree 3
-   date: 2019
-   subject: MIAGE (Computer Methods Applied to Business Management)
-   school: University of Cote d'Azur
- - level: Bachelor's Degree 1 & 2
-   date: 2019
-   subject: MASS (Mathematics Applied to Social Sciences)
-   school: University of Cote d'Azur
+ - title: Penis
+   start: 2008
+   end: 2012
+   subject: Applied Informatics
+   school: AGH University of Science and Technology
 
 #This section is optional (as is the image link below)
 coursera:
