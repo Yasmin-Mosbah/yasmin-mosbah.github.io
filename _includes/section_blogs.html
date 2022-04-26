@@ -4,7 +4,10 @@
 			<h1>Recent blog posts</h1>
 		</div>
 		<div class="content-rounded-panel">
-			<div id="blogArticles">
+			<div id="skills">
+				{% for int in site.interests %}
+					<span class="label label-info label-padded"> {{int}} </span> &nbsp;
+				{% endfor %}
 			</div>
 			<br>
 		</div>
