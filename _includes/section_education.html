@@ -5,7 +5,7 @@
 	<div class="content-rounded-panel">
 		<div>
 			<div id="introBubble" class="rounded_panel txt_lightgrey">
-				{% for edu in site.educations %}
+				{% for edu in site.education %}
 				<div class="timeline">
 						<a href="#" class="timeline-content"  data-toggle="modal" data-target="#{{edu.employer | replace: ' ', '_'}}-{{edu.title | replace: ' ', '_'}}">
 								<span class="year">{{edu.start}}</span>
@@ -19,7 +19,7 @@
 	</div>
 
 	<!-- Modals -->
-	{% for edu in site.educations %}
+	{% for edu in site.education %}
 		<div class="modal fade" id="{{edu.employer | replace: ' ', '_'}}-{{edu.title | replace: ' ', '_'}}" tabindex="-1" edu="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
