@@ -12,8 +12,8 @@ primarylinks:
    url: https://www.linkedin.com/in/ymosbah
  - title: GitHub
    url: https://github.com/yasmin-mosbah
- - title: Kaggle
-   url: https://www.kaggle.com/yasminmosbah
+#  - title: Kaggle
+#    url: https://www.kaggle.com/yasminmosbah
 
 #Any buzzword skills you want to include
 skills:
@@ -137,20 +137,21 @@ coursera:
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-# speakerdeck:
-#    profileurl: https://speakerdeck.com/robhinds
-#    talks:
-#     - title: Product Management for Engineers
-#       speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-#       conference: API Conference, Berlin 2018
-#     - title: Agile Machine Learning - from Theory to Production
-#       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-#       conference: W-JAX Conference, Munich 2017 (London 2017)
+speakerdeck:
+   profileurl: https://speakerdeck.com/robhinds
+   talks:
+    - title: Product Management for Engineers
+      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+      conference: API Conference, Berlin 2018
+    - title: Agile Machine Learning - from Theory to Production
+      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
  - Yasmin-Mosbah/angular_projet
  - Yasmin-Mosbah/TP_WEB_M2
+ - RemiFELIN/Projet-R-Gun-violence-data
 
 # #Stackoverflow flair is optional
 # stackoverflow:
@@ -159,10 +160,7 @@ github:
 
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM-but have worked across a broad range of technologies thereon: Java-Groovy-Android-Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web-which has given me an exposure to a range of javascript technologies over the years-through jQuery-extjs-knockout-backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products-with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM-I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
-
+  I am a junior data scientist fresh out of school. I have a master's degree in Applied Artificial Intelligence, obtained at the Université Code d'Azur in France.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 # additionalinfo: |
 #    <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries-such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>-as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
