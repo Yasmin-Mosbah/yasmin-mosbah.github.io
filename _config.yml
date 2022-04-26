@@ -149,8 +149,9 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
+ - Yasmin-Mosbah/angular_projet
+ -Yasmin-Mosbah/projet-restaurant-VueJs
+ - Yasmin-Mosbah/TP_WEB_M2
 
 # #Stackoverflow flair is optional
 # stackoverflow:
