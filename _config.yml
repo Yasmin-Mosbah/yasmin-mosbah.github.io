@@ -33,8 +33,8 @@ skills:
  - PLSQL
  - noSQL
 
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+# #Blogfeed is optional - including this will add JS to call the feed and populate blog list
+# blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -91,28 +91,28 @@ educations:
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/user/de24f806f5b2d5b0539496491acbe8f9
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: Machine Learning by Stanford University
+      link: https://www.coursera.org/learn/machine-learning
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/ml/large-icon.png?auto=format%2Ccompress&dpr=1
+      date: September 26, 2022
+    # - title: Algorithms Design and Analysis, Part 1
+    #   link: https://www.coursera.org/specializations/algorithms
+    #   optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+    #   date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+# speakerdeck:
+#    profileurl: https://speakerdeck.com/robhinds
+#    talks:
+#     - title: Product Management for Engineers
+#       speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#       conference: API Conference, Berlin 2018
+#     - title: Agile Machine Learning - from Theory to Production
+#       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#       conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -127,10 +127,10 @@ github:
  - robhinds/footweets
  - robhinds/ElasticSearchGradle
 
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+# #Stackoverflow flair is optional
+# stackoverflow:
+#    profileurl: https://stackoverflow.com/users/258813/rhinds
+#    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 
 intro: |
