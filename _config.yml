@@ -78,22 +78,26 @@ roles:
 #    school: University of Cote d'Azur
 
 educations:
- - title: Data Scientist
-   start: 2020
-   end: 2021
-   employer: Enedis
-   description:  • Project management </br> • Automation of data retrieval from over 30 different sources </br> • Analysis and visualization of data with PowerBi
- - title: Data Analysit
-   start: 2020
-   end: 2020
-   employer: Maison des Sciences de l’Homme et de la Société
-   description:  •  Statistical and forecasting studies on the impact of AirBnB on the region </br> • Processing and analysis of a very large amount of date
- - title: Android Sotware Developer
-   start: 2019
-   end: 2019
-   employer: TokiDev
-   description: • Design and development of a mobile application </br> • Storage of semi-structured data from crowdsourcing </br> • Visualization of data on a map on mobile
-
+ - title: Master's Degree 2
+   start: 2008
+   end: 2012
+   subject: Applied Artificial Intelligence
+   school: University of Cote d'Azur
+ - title: Master's Degree 1
+   start: 2008
+   end: 2012
+   subject: MIAGE (Computer Methods Applied to Business Management)
+   school: University of Cote d'Azur
+ - title: Bachelor's Degree 3
+   start: 2008
+   end: 2012
+   subject: MIAGE (Computer Methods Applied to Business Management)
+   school: University of Cote d'Azur
+ - title: Bachelor's Degree 1 & 2
+   start: 2008
+   end: 2012
+   subject: MASS (Mathematics Applied to Social Sciences)
+   school: University of Cote d'Azur
 
 #This section is optional (as is the image link below)
 coursera:
