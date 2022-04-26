@@ -81,23 +81,23 @@ educations:
  - title: Master's Degree 2
    start: 2008
    end: 2012
-   subject: Applied Artificial Intelligence
-   school: University of Cote d'Azur
+   employer: Applied Artificial Intelligence
+   description: University of Cote d'Azur
  - title: Master's Degree 1
    start: 2008
    end: 2012
-   subject: MIAGE (Computer Methods Applied to Business Management)
-   school: University of Cote d'Azur
+   employer: MIAGE (Computer Methods Applied to Business Management)
+   description: University of Cote d'Azur
  - title: Bachelor's Degree 3
    start: 2008
    end: 2012
-   subject: MIAGE (Computer Methods Applied to Business Management)
-   school: University of Cote d'Azur
+   employer: MIAGE (Computer Methods Applied to Business Management)
+   description: University of Cote d'Azur
  - title: Bachelor's Degree 1 & 2
    start: 2008
    end: 2012
-   subject: MASS (Mathematics Applied to Social Sciences)
-   school: University of Cote d'Azur
+   employer: MASS (Mathematics Applied to Social Sciences)
+   description: University of Cote d'Azur
 
 #This section is optional (as is the image link below)
 coursera:
