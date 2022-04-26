@@ -6,12 +6,12 @@
 		<div>
 			<div id="introBubble" class="rounded_panel txt_lightgrey">
 
-					{% for edu in site.education %}
+					{% for edu in site.educations %}
 						<div>
-								<a href="#" class="timeline-content"  data-toggle="modal" data-target="#{{edu.school | replace: '.', '' | replace: ' ', ''}}-{{edu.level | replace: '.', '' | replace: ' ', '' | replace: '(', '' | replace: ')', ''}}">
+								<a href="#" class="timeline-content"  data-toggle="modal" data-target="#{{edu.school | replace: '.', '' | replace: ' ', ''}}-{{edu.title | replace: '.', '' | replace: ' ', '' | replace: '(', '' | replace: ')', ''}}">
 										<div class="inner-content">
-												<h3 class="title">{{edu.level}}</h3>
-                                                <span class="year">{{edu.date}}</span>
+												<h3 class="title">{{edu.title}}</h3>
+                                                <span class="year">{{edu.start}}</span>
 												<h5>{{edu.subject}}</h5>
 										</div>
 								</a>
@@ -21,12 +21,12 @@
 
 
 			<!-- Modals -->
-			<!-- {% for edu in site.education %}
-				<div class="modal fade" id="{{edu.level | replace: ' ', '_'}}-{{edu.description| replace: ' ', '_'}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			{% for edu in site.educations %}
+				<div class="modal fade" id="{{edu.title | replace: ' ', '_'}}-{{edu.subject| replace: ' ', '_'}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 					<div class="modal-dialog" role="document">
 						<div class="modal-content">
 							<div class="modal-header">
-								<h3 class="modal-title">{{edu.level}} - {{edu.year}}</h3>
+								<h3 class="modal-title">{{edu.title}} - {{edu.start}}</h3>
 								<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 									<span aria-hidden="true">&times;</span>
 								</button>
@@ -37,7 +37,7 @@
 						</div>
 					</div>
 				</div>
-			{% endfor %} -->
+			{% endfor %}
 
 		</div>
 		<br>
