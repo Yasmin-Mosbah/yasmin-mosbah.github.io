@@ -61,7 +61,6 @@ education:
    end: 2012
    subject: Applied Artificial Intelligence
    school: University of Cote d'Azur
-   description: • Machine Learning (Decision trees, Confusion matrix, Data clustering) </br> • Uncertainty Modeling (Bayesian Networks, Hidden Markov Models, Dempster-Shafer Theory of Evidence, Fuzzy Set Theory, Possibility Theory) </br> • Evolutionary Algorithm (NEAT) </br> • Computer Vision (HOG , R-CNN, Fast R-CNN, Faster R-CNN,) </br> • Natural Language Processing (Sentiment Analysis & Information Retrieval, using NLTK, SpaCy & SPARQL) </br> • Conversational agents & multi-agent systems </br> • AI for problem solving (Linear programming, CPLEX Studio)
  - title: Master's Degree 1
    start: 2008
    end: 2012
