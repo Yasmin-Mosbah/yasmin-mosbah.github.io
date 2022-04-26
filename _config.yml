@@ -55,12 +55,12 @@ roles:
    description: • Design and development of a mobile application </br> • Storage of semi-structured data from crowdsourcing </br> • Visualization of data on a map on mobile
 
 #Education is required
-education:
- - title: Master's Degree 2
-   start: 2008
-   end: 2012
-   subject: Applied Artificial Intelligence
-   school: University of Cote d'Azur
+# education:
+#  - title: Master's Degree 2
+#    start: 2008
+#    end: 2012
+#    subject: Applied Artificial Intelligence
+#    school: University of Cote d'Azur
 #  - title: Master's Degree 1
 #    start: 2008
 #    end: 2012
@@ -77,12 +77,17 @@ education:
 #    subject: MASS (Mathematics Applied to Social Sciences)
 #    school: University of Cote d'Azur
 
-# education:
-#  - title: Penis
-#    start: 2008
-#    end: 2012
-#    subject: Applied Informatics
-#    school: AGH University of Science and Technology
+education:
+ - title: Penis
+   start: 2008
+   end: 2012
+   subject: Applied Informatics
+   school: AGH University of Science and Technology
+ - title: Bachelor's Degree 1 & 2
+   start: 2008
+   end: 2012
+   subject: MASS (Mathematics Applied to Social Sciences)
+   school: University of Cote d'Azur
 
 #This section is optional (as is the image link below)
 coursera:
