@@ -150,7 +150,6 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github:
  - Yasmin-Mosbah/angular_projet
- -Yasmin-Mosbah/projet-restaurant-VueJs
  - Yasmin-Mosbah/TP_WEB_M2
 
 # #Stackoverflow flair is optional
