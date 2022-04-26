@@ -21,7 +21,7 @@
 	<!-- Modals -->
 	{% for edu in site.education %}
 		<div class="modal fade" id="{{edu.employer | replace: ' ', '_'}}-{{edu.title | replace: ' ', '_'}}" tabindex="-1" edu="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-			<div class="modal-dialog" edu="document">
+			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header">
 						<h3 class="modal-title">{{edu.title}} - {{edu.employer}}</h3>

@@ -78,7 +78,7 @@ roles:
 #    school: University of Cote d'Azur
 
 educations:
-- title: Data Scientist
+ - title: Data Scientist
    start: 2020
    end: 2021
    employer: Enedis
