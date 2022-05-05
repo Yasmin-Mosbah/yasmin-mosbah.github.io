@@ -149,6 +149,13 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - Yasmin-Mosbah/modelisation-de-l-incertitude
+ - Yasmin-Mosbah/evolutionary-algorithms
+ - Yasmin-Mosbah/Agent-conversationnel
+ - Yasmin-Mosbah/NPL-algorithme-d-analyse-de-sentiment-base-sur-les-aspects
+ - Yasmin-Mosbah/NLP-algorithme-de-recherche-d-informations
+ - Yasmin-Mosbah/NLP-systeme-de-questions-reponses
+ - Yasmin-Mosbah/miaged-flutterApp
  - Yasmin-Mosbah/angular_projet
  - Yasmin-Mosbah/TP_WEB_M2
  - RemiFELIN/Projet-R-Gun-violence-data
